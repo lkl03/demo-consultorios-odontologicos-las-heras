@@ -1,2 +1,7 @@
-# demo-consultorios-odontologicos-las-heras
-Demo web para Consultorios odontologicos Las Heras — diseñada por eterlab.
+# Consultorios odontologicos Las Heras
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
